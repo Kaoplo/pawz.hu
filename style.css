@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(49,49,49);
+    color: white;
+    font-family: Roboto, serif;
+}
+.header {
+    text-align: center;
+    font-size: 50pt; 
+    margin-bottom: 0px;
+    padding-bottom: 0;
+}
+.header h1 {
+    margin-bottom: 0;
+}
+.header p {
+    font-size:30pt;
+    text-align: left;
+    margin-top: 0;
+    padding-bottom: 50px;
+}
+.list {
+    font-size: 30pt;
+}
+@media screen and (orientation:portrait) { 
+    .list {
+        text-align: center;
+    }
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+a:visited {
+    color: white;
+    text-decoration: none;
+}
+#eyes {
+    font-size: 35pt;
+    font-weight:900;
+}

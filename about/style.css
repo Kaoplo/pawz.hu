@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(49, 49, 49);
+    color: white;
+    font-family: Roboto, serif;
+    font-size: 20pt;
+}
+h1 {
+    font-size: 40pt;
+}
+h2 {
+    font-style: italic;
+    font-size: 30pt;
+}
+@media screen and (orientation:portrait) {
+    h1, h2 {
+        text-align: center;
+    }
+}
