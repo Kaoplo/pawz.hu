@@ -5,7 +5,7 @@ body {
 }
 .header {
     text-align: center;
-    font-size: 5vw; 
+    font-size: 3vw; 
     margin-bottom: 0px;
     padding-bottom: 0;
 }
@@ -13,14 +13,14 @@ body {
     margin-bottom: 0;
 }
 .header p {
-    font-size: 4vw;
+    font-size: 2vw;
     text-align: left;
     margin-top: 0;
     padding-bottom: 50px;
     margin-left: 2vw;
 }
 .list {
-    font-size: 3vw;
+    font-size: 2vw;
     margin-left: 2vw;
 }
 
@@ -33,7 +33,7 @@ a:visited {
     text-decoration: none;
 }
 #eyes {
-    font-size: 5vw;
+    font-size: 2vw;
     font-weight:900;
 }
 @media screen and (orientation:portrait) { 
@@ -51,5 +51,4 @@ a:visited {
     #eyes {
         font-size: 6vw;
     }
-
 }
