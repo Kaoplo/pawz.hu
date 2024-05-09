@@ -9,6 +9,12 @@ body {
     margin-bottom: 0px;
     padding-bottom: 0;
 }
+.logo img {
+    display: block;
+    margin: auto;
+    max-width: 40vw;
+}
+
 .header h1 {
     margin-bottom: 0;
 }
